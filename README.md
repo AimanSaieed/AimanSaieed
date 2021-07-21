@@ -1,7 +1,7 @@
 - 👋 Hi, I’m AimanSaieed
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Coding
-- 💞️ I’m looking to collaborate on Mathametatics Coding
+- 💞️ I’m looking to collaborate on Mathematics Coding
 - 📫 How to reach me My Dreams
 
 <!---
